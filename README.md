@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @zarni-ein
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning flask and SQL
-- 💞️ I’m looking to collaborate on any simple web application
-- 📫 Reach me: @zarnia:matrix.org
+Hi, I’m Andrew.
+I'm writing simple apps on Python and JS.
+Have any collab ideas? Reach me: @zarnia:matrix.org
 
-
-
-<!---
-zarni-ein/zarni-ein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://www.codewars.com/users/zarni-ein/badges/large)
